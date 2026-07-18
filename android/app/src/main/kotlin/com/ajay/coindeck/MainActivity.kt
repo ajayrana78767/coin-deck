@@ -1,4 +1,4 @@
-package com.example.coin_deck
+package com.ajay.coindeck
 
 import io.flutter.embedding.android.FlutterActivity
 
